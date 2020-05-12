@@ -1,0 +1,6 @@
+Vulnerability Report is as follows:
+==================================
+
+Form Issue: Insecure form /post.php found in document
+Comment Issue: Key is found in the HTML comments, please remove
+Input Issue: Plain text password input found. Please change to password
